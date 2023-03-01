@@ -1,0 +1,15 @@
+.Nombre {
+    border: solid;
+    padding: 8px;
+}
+
+legend{
+    border: solid 1px;
+    border-radius: 15px;
+    background-color: cyan;
+}
+ 
+body{
+    background-color: pink;
+
+}
